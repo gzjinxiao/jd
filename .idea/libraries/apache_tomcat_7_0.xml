@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-7.0">
+    <CLASSES>
+      <root url="file://E:/apache-tomcat-7.0.82" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/apache-tomcat-7.0.82/work/Catalina/localhost/_" />
+      <root url="file://E:/apache-tomcat-7.0.82/work/Catalina/localhost/day36" />
+    </SOURCES>
+  </library>
+</component>
